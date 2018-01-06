@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- for theme AppThemeDark-->
+    <color name="dark_colorPrimary">#212121</color>
+    <color name="dark_colorPrimaryDark">#000000</color>
+    <color name="dark_colorAccent">#81CAC6</color>
+    <color name="dark_windowBackground">#303030</color>
+    <color name="dark_cardDialogBackground">#424242</color>
+</resources>
