@@ -1,5 +1,5 @@
 # Diagnosing Atherosclerosis
-## A cost-efficient and reliable form for obtaining volumetric measurements of the heart through optical techniques
+### A cost-efficient and reliable form for obtaining volumetric measurements of the heart through optical techniques
 
 The leading cause of death is heart disease, especially atherosclerosis, the accumulation of fats and cholesterol on the linings of artery walls. The narrowing of the artery can limit the flow of oxygen-rich blood to vital organs in the body, such as the heart. If not diagnosed beforehand, blood flow can gradually decrease to the point where the victim may have a heart attack or stroke. Typically, doctors use electrocardiograms and exercise stress tests to diagnose atherosclerosis. However, the cost of diagnosis, let alone treatment, makes patients more willing to ignore the problem. The project aims to develop a more cost-effective form of diagnosis accessible to more people, preventing thousands of deaths due to heart attack or stroke. Using measurements of light absorption by the blood, one can identify patterns common to patients with atherosclerosis. 
 
